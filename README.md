@@ -28,7 +28,7 @@ Sou estudante da ETEC Zona Leste, cursando Desenvolvimento de Sistemas. Procuro 
 
 ## Contato
 <p align="center">
-  <a href="https://www.linkedin.com/in/beatriz-galdino-torres-1b7024307/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/beatriz-galdino-torres-67646a409/?isSelfProfile=true">LinkedIn</a> •
   <a href="mailto:beatrizgaldinotorres1505@gmail.com">Email</a>
 </p>
 
